@@ -157,10 +157,10 @@ html{
 ----
 
 * [GitHub](https://github.com/yixiangxiao)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [我的文章](https://)
 
 > 如果你喜欢这个效果，
-Fork [我的项目](https://github.com/yixiangxiao/animating-resume)，打造你自己的简历！
+Fork [我的项目](https://github.com/yixiangxiao/donghua)，打造你自己的简历！
 
 `,
     };
